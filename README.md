@@ -70,7 +70,7 @@ I enjoy building modern and secure applications that provide real value.
     <td width="33.33%">
       <h3 align="center"> Mx Studio </h3>
       <div align="center">
-        <a href="https://github.com/mj01px/mx-studios" target="_blank">
+        <a href="https://github.com/mj01px/mx-studio" target="_blank">
           <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
         </a>
         <p><strong> Featuring scroll-linked video experience.</strong></p>
