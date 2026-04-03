@@ -48,7 +48,7 @@ I enjoy building modern and secure applications that provide real value.
           <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
         </a>
         <p><strong>Selling games online.</strong></p>
-        <p> Front-End project</p>
+        <p> Full stacjk project</p>
         <p>
           <code>TypeScript</code> <code>Vite</code> <code>React</code>
         </p>
