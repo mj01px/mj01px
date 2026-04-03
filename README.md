@@ -50,7 +50,7 @@ I enjoy building modern and secure applications that provide real value.
         <p><strong>Selling games online.</strong></p>
         <p> Full stack project</p>
         <p>
-          <code>TypeScript</code> <code>Vite</code> <code>React</code>
+          <code>TypeScript</code> <code>Vite</code> <code>React</code><code>Django</code>
         </p>
       </div>
     </td>
@@ -74,7 +74,7 @@ I enjoy building modern and secure applications that provide real value.
           <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
         </a>
         <p><strong> Featuring scroll-linked video experience.</strong></p>
-        <p> Machine Learning Project</p>
+        <p> Front End Project</p>
         <p>
           <code>TypeScript</code> <code>Vite</code> <code>React</code>
         </p>
