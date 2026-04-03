@@ -41,20 +41,20 @@ I enjoy building modern and secure applications that provide real value.
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33.33%">
       <h3 align="center">Game Rent</h3>
       <div align="center">
-        <a href="https://github.com/mj01px/game-rent-app" target="_blank">
+        <a href="https://github.com/mj01px/game-rent" target="_blank">
           <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
         </a>
         <p><strong>Selling games online.</strong></p>
         <p> Front-End project</p>
         <p>
-          <code>JavaScript</code> <code>CSS</code> <code>HTML</code>
+          <code>TypeScript</code> <code>Vite</code> <code>React</code>
         </p>
       </div>
     </td>
-    <td width="50%">
+    <td width="33.33%">
       <h3 align="center"> Pima SVM Analysis </h3>
       <div align="center">
         <a href="https://github.com/mj01px/pima-svm-analysis" target="_blank">
@@ -67,8 +67,24 @@ I enjoy building modern and secure applications that provide real value.
         </p>
       </div>
     </td>
+    <td width="33.33%">
+      <h3 align="center"> Mx Studio </h3>
+      <div align="center">
+        <a href="https://github.com/mj01px/pima-svm-analysis" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+        </a>
+        <p><strong> Featuring scroll-linked video experience.</strong></p>
+        <p> Machine Learning Project</p>
+        <p>
+          <code>TypeScript</code> <code>Vite</code> <code>React</code>
+        </p>
+      </div>
+    </td>
+
   </tr>
 </table>
+
+
 
 <br>
 
