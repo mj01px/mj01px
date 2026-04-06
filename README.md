@@ -32,7 +32,7 @@ const mauro_junior = {
 };
 ```
 
-I’m a Software Engineering student and developer. Since childhood, technology has always been a natural passion for me — which eventually led me into software engineering.  
+I'm a Software Engineering student and developer. Since childhood, technology has always been a natural passion for me — which eventually led me into software engineering.  
 I enjoy building modern and secure applications that provide real value.
 
 ---
@@ -48,43 +48,87 @@ I enjoy building modern and secure applications that provide real value.
           <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
         </a>
         <p><strong>Selling games online.</strong></p>
-        <p> Full stack project</p>
+        <p>Full Stack Project</p>
         <p>
-          <code>TypeScript</code> <code>Vite</code> <code>React</code><code>Django</code>
+          <code>TypeScript</code> <code>Vite</code> <code>React</code> <code>Django</code>
         </p>
       </div>
     </td>
     <td width="33.33%">
-      <h3 align="center"> Pima SVM Analysis </h3>
+      <h3 align="center">Pima SVM Analysis</h3>
       <div align="center">
         <a href="https://github.com/mj01px/pima-svm-analysis" target="_blank">
           <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
         </a>
-        <p><strong> Analyze and predict diabetes.</strong></p>
-        <p> Machine Learning Project</p>
+        <p><strong>Analyze and predict diabetes.</strong></p>
+        <p>Machine Learning Project</p>
         <p>
-          <code>Python</code> <code>Scikit-Learn</code> <code>Numpy</code> <code>Pandas</code>
+          <code>Python</code> <code>Scikit-Learn</code> <code>NumPy</code> <code>Pandas</code>
         </p>
       </div>
     </td>
     <td width="33.33%">
-      <h3 align="center"> Mx Studio </h3>
+      <h3 align="center">MX Studio</h3>
       <div align="center">
         <a href="https://github.com/mj01px/mx-studio" target="_blank">
           <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
         </a>
-        <p><strong> Featuring scroll-linked video experience.</strong></p>
-        <p> Front End Project</p>
+        <p><strong>Featuring scroll-linked video experience.</strong></p>
+        <p>Front-End Project</p>
         <p>
           <code>TypeScript</code> <code>Vite</code> <code>React</code>
         </p>
       </div>
     </td>
-
+  </tr>
+  <tr>
+    <td width="33.33%">
+      <h3 align="center">Proximity Simulator</h3>
+      <div align="center">
+        <a href="https://github.com/mj01px/proximity-simulator" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+        </a>
+        <p><strong>Real-time IoT proximity sensor simulation.</strong></p>
+        <p>Full Stack Project</p>
+        <p>
+          <code>Python</code> <code>FastAPI</code> <code>WebSockets</code> <code>JavaScript</code>
+        </p>
+      </div>
+    </td>
+    <td width="33.33%">
+      <h3 align="center">DevPulse</h3>
+      <div align="center">
+        <a href="https://github.com/mj01px/dev-pulse" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+        </a>
+        <a href="https://dev-pulse-tau.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+        </a>
+        <p><strong>GitHub profile analyzer dashboard.</strong></p>
+        <p>Front-End Project</p>
+        <p>
+          <code>TypeScript</code> <code>React</code> <code>Recharts</code>
+        </p>
+      </div>
+    </td>
+    <td width="33.33%">
+      <h3 align="center">Credit Risk ML</h3>
+      <div align="center">
+        <a href="https://github.com/mj01px/credit-risk-ml" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+        </a>
+        <a href="https://credit-risk-ml-grpffnbeupegelakzvhjnb.streamlit.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
+        </a>
+        <p><strong>Predict loan default probability.</strong></p>
+        <p>Machine Learning Project</p>
+        <p>
+          <code>Python</code> <code>Scikit-Learn</code> <code>Streamlit</code> <code>Plotly</code>
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
-
-
 
 <br>
 
