@@ -42,18 +42,46 @@ I enjoy building modern and secure applications that provide real value.
 <table>
   <tr>
     <td width="33.33%">
-      <h3 align="center">Game Rent</h3>
+      <h3 align="center">Summo Order</h3>
       <div align="center">
-        <a href="https://github.com/mj01px/game-rent" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+        <a href="https://portalmarosa.com.br" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Site-1668AB?style=for-the-badge&logoColor=white" alt="Live Site">
         </a>
-        <p><strong>Selling games online.</strong></p>
-        <p>Full Stack Project</p>
+        <p><strong>Multi-tenant order & inventory management platform, live in production.</strong></p>
+        <p>Full Stack Project · Private repository</p>
         <p>
-          <code>TypeScript</code> <code>Vite</code> <code>React</code> <code>Django</code>
+          <code>React</code> <code>Django</code> <code>PostgreSQL</code> <code>Docker</code>
         </p>
       </div>
     </td>
+    <td width="33.33%">
+      <h3 align="center">Ludex</h3>
+      <div align="center">
+        <a href="https://github.com/mj01px/ludex" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+        </a>
+        <p><strong>Game review hub with a Brazilian price comparator.</strong></p>
+        <p>Full Stack Project</p>
+        <p>
+          <code>Java</code> <code>Spring Boot</code> <code>React</code> <code>Vite</code>
+        </p>
+      </div>
+    </td>
+    <td width="33.33%">
+      <h3 align="center">Spectrum</h3>
+      <div align="center">
+        <a href="https://github.com/mj01px/spectrum" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+        </a>
+        <p><strong>Lightweight YouTube multi-player for portrait monitors.</strong></p>
+        <p>Desktop Project</p>
+        <p>
+          <code>C#</code> <code>.NET</code> <code>WebView2</code>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td width="33.33%">
       <h3 align="center">Pima SVM Analysis</h3>
       <div align="center">
@@ -76,57 +104,11 @@ I enjoy building modern and secure applications that provide real value.
         <p><strong>Featuring scroll-linked video experience.</strong></p>
         <p>Front-End Project</p>
         <p>
-          <code>TypeScript</code> <code>Vite</code> <code>React</code>
+          <code>TypeScript</code> <code>React</code> <code>Tailwind CSS</code> <code>Framer Motion</code>
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td width="33.33%">
-      <h3 align="center">Proximity Simulator</h3>
-      <div align="center">
-        <a href="https://github.com/mj01px/proximity-simulator" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
-        </a>
-        <p><strong>Real-time IoT proximity sensor simulation.</strong></p>
-        <p>Full Stack Project</p>
-        <p>
-          <code>Python</code> <code>FastAPI</code> <code>WebSockets</code> <code>JavaScript</code>
-        </p>
-      </div>
-    </td>
-    <td width="33.33%">
-      <h3 align="center">DevPulse</h3>
-      <div align="center">
-        <a href="https://github.com/mj01px/dev-pulse" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
-        </a>
-        <a href="https://dev-pulse-tau.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-        </a>
-        <p><strong>GitHub profile analyzer dashboard.</strong></p>
-        <p>Front-End Project</p>
-        <p>
-          <code>TypeScript</code> <code>React</code> <code>Recharts</code>
-        </p>
-      </div>
-    </td>
-    <td width="33.33%">
-      <h3 align="center">Credit Risk ML</h3>
-      <div align="center">
-        <a href="https://github.com/mj01px/credit-risk-ml" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
-        </a>
-        <a href="https://credit-risk-ml-grpffnbeupegelakzvhjnb.streamlit.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
-        </a>
-        <p><strong>Predict loan default probability.</strong></p>
-        <p>Machine Learning Project</p>
-        <p>
-          <code>Python</code> <code>Scikit-Learn</code> <code>Streamlit</code> <code>Plotly</code>
-        </p>
-      </div>
-    </td>
+    <td width="33.33%"></td>
   </tr>
 </table>
 
