@@ -122,9 +122,6 @@ and actually useful to someone.
   <img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mj01px&theme=default" alt="Profile details">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mj01px&utcOffset=-3&theme=github_dark">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mj01px&utcOffset=-3&theme=default" alt="Productive time">
-</picture>
+
 
 </div>
