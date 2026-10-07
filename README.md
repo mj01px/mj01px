@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- animated contribution graph: real data, cells reveal one by one
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+<!-- animated contribution graph: real data and GitHub's own colors, cells pop in
+     with a diagonal sweep (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
 <h3><code>mauro@github ~ $ ./contributions.sh</code></h3>
 
@@ -10,9 +10,10 @@
 <br>
 <br>
 
-<!-- ascii portrait (left) + neofetch-style stats card (right).
-     portrait: python scripts/prep_photo.py && python scripts/make_ascii_svg.py
-     stats:    python scripts/render_stats_svg.py (same daily workflow) -->
+<!-- ascii portrait (left) + streak/numbers card (right). both svgs are
+     840x880 so equal widths give equal heights.
+     portrait: python scripts/portrait_prep.py && python scripts/portrait_svg.py (local, once)
+     stats:    python scripts/stats_svg.py (same daily workflow) -->
 
 <h3><code>mauro@github ~ $ whoami</code></h3>
 
