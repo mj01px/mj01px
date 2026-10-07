@@ -1,68 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1668ab,100:0a2f5c&height=210&section=header&text=Mauro%20Junior&fontSize=52&fontColor=ffffff&fontAlignY=33&desc=Software%20Engineering%20%C2%B7%20Full%20Stack%20Developer&descSize=16&descAlignY=54" width="100%" alt="Mauro Junior">
+<!-- animated contribution graph: real data, cells reveal one by one
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<p>
-  <a href="https://www.linkedin.com/in/mauroapjunior/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:mjuniordevv@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail">
-  </a>
-  <a href="https://github.com/mj01px?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
-  </a>
-</p>
+<h3><code>mauro@github ~ $ ./contributions.sh</code></h3>
 
-</div>
+<img src="./contrib-heatmap.svg" width="860" alt="Mauro's GitHub contribution graph — auto-refreshed daily" />
 
-## whoami
-
-```js
-const mauro = {
-  role:      "Full Stack Developer",
-  education: "Software Engineering, 8th semester",
-  based_in:  " São Paulo, Brazil",
-  focus:     ["Back-End", "Front-End", "Machine Learning"],
-  building:  "CodeQuest, final graduation project",
-  learning:  ["Java", "Spring Boot"],
-};
-```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mj01px&theme=github_dark">
-
-  <img align="right" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mj01px&theme=default" alt="Repositories per language">
-</picture>
-
-
-Technology has been a natural interest since I was a kid, and it is what led me
-into software engineering. I like building applications that are modern, secure
-and actually useful to someone.
-
-<br clear="both">
+<br>
 <br>
 
-## stacks
+<!-- ascii portrait (left) + neofetch-style stats card (right).
+     portrait: python scripts/prep_photo.py && python scripts/make_ascii_svg.py
+     stats:    python scripts/render_stats_svg.py (same daily workflow) -->
+
+<h3><code>mauro@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./mauro-ascii.svg" width="420" alt="Mauro Junior — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Mauro's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<h3><code>mauro@github ~ $ cat about.txt</code></h3>
 
 <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java">
+Software Engineering student (8th semester) from Jacareí, Brazil.<br>
+Technology has been a natural interest since I was a kid — I like building<br>
+applications that are modern, secure and actually useful to someone.
+</p>
+
+<br>
+
+<h3><code>mauro@github ~ $ ls stack/</code></h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot" title="Spring Boot">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/django/django-plain.svg" width="42" height="42" alt="Django" title="Django">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="42" height="42" alt="React" title="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="42" height="42" alt="React" title="React">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vite/vite-original.svg" width="42" height="42" alt="Vite" title="Vite">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git">
 </p>
 
-<br> 
+<br>
 
-## project shelf
+<h3><code>mauro@github ~ $ ls projects/</code></h3>
 
 <table>
   <tr>
@@ -113,15 +106,18 @@ and actually useful to someone.
   </tr>
 </table>
 
-## Activity
+<br>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mj01px&theme=github_dark">
-  <img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mj01px&theme=default" alt="Profile details">
-</picture>
+<h3><code>mauro@github ~ $ ./links.sh</code></h3>
 
+<p><b>Full Stack Developer · Back-End · Machine Learning</b></p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mauroapjunior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauroapjunior/)
+[![Email](https://img.shields.io/badge/E--mail-mjuniordevv-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mjuniordevv@gmail.com)
+[![Repositories](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mj01px?tab=repositories)
+
+</div>
 
 </div>

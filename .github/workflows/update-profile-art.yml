@@ -1,0 +1,57 @@
+name: update-profile-art
+
+# Regenerates the ASCII portrait, stats card and contribution heatmap, then
+# commits them if anything changed. Runs daily, on manual dispatch, and on
+# pushes that touch the generators.
+on:
+  schedule:
+    - cron: "17 5 * * *"   # 05:17 UTC daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "assets/dp-src.png"
+      - ".github/workflows/update-profile-art.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install --quiet pillow
+
+      - name: Render profile art
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          python scripts/prep_photo.py
+          python scripts/make_ascii_svg.py
+          python scripts/render_heatmap_svg.py "$USERNAME"
+          python scripts/render_stats_svg.py "$USERNAME"
+
+      - name: Commit updated art
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A mauro-ascii.svg stats.svg contrib-heatmap.svg assets/dp.png
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(profile): refresh contribution art"
+            git push
+          fi
